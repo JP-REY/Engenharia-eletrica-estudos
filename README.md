@@ -1,0 +1,1 @@
+Repositório pessoal com anotações, códigos, simulações e experimentos práticos desenvolvidos durante meus estudos em Engenharia Elétrica. O objetivo é reunir conteúdo técnico e facilitar a organização do aprendizado.
